@@ -2,12 +2,11 @@ package com.example.tahm_.hook;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Toast;
 
-import static com.example.tahm_.hook.MainActivity.mp;
+import static com.example.tahm_.hook.Start.mp;
 
 public class Finish extends AppCompatActivity {
 
@@ -39,9 +38,9 @@ public class Finish extends AppCompatActivity {
 
     public void onClick_yes(View v) {
         mp.pause();
-        ActivityCompat.finishAffinity(this);
-        System.runFinalizersOnExit(true);
-        System.exit(0);
+        if (before_map_code == 1) {
+
+        }
         Toast.makeText(getApplicationContext(),"너무해! 너무해!", Toast.LENGTH_LONG).show();
     }
 

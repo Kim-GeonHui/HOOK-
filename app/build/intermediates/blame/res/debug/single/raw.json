@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\tahm_\\AndroidStudioProjects\\HOOK4\\app\\build\\intermediates\\res\\merged\\debug\\raw\\swamp.mp3",
+        "source": "C:\\Users\\tahm_\\AndroidStudioProjects\\HOOK4\\app\\src\\main\\res\\raw\\swamp.mp3"
+    },
+    {
+        "merged": "C:\\Users\\tahm_\\AndroidStudioProjects\\HOOK4\\app\\build\\intermediates\\res\\merged\\debug\\raw\\aquarium.mp3",
+        "source": "C:\\Users\\tahm_\\AndroidStudioProjects\\HOOK4\\app\\src\\main\\res\\raw\\aquarium.mp3"
+    },
+    {
+        "merged": "C:\\Users\\tahm_\\AndroidStudioProjects\\HOOK4\\app\\build\\intermediates\\res\\merged\\debug\\raw\\shop.mp3",
+        "source": "C:\\Users\\tahm_\\AndroidStudioProjects\\HOOK4\\app\\src\\main\\res\\raw\\shop.mp3"
+    },
+    {
+        "merged": "C:\\Users\\tahm_\\AndroidStudioProjects\\HOOK4\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bermuda_triangle.mp3",
+        "source": "C:\\Users\\tahm_\\AndroidStudioProjects\\HOOK4\\app\\src\\main\\res\\raw\\bermuda_triangle.mp3"
+    },
+    {
+        "merged": "C:\\Users\\tahm_\\AndroidStudioProjects\\HOOK4\\app\\build\\intermediates\\res\\merged\\debug\\raw\\normal.mp3",
+        "source": "C:\\Users\\tahm_\\AndroidStudioProjects\\HOOK4\\app\\src\\main\\res\\raw\\normal.mp3"
+    },
+    {
+        "merged": "C:\\Users\\tahm_\\AndroidStudioProjects\\HOOK4\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tropical_beach.mp3",
+        "source": "C:\\Users\\tahm_\\AndroidStudioProjects\\HOOK4\\app\\src\\main\\res\\raw\\tropical_beach.mp3"
+    },
+    {
+        "merged": "C:\\Users\\tahm_\\AndroidStudioProjects\\HOOK4\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fishing.mp3",
+        "source": "C:\\Users\\tahm_\\AndroidStudioProjects\\HOOK4\\app\\src\\main\\res\\raw\\fishing.mp3"
+    }
+]
